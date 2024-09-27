@@ -34,12 +34,21 @@ function zbpzmp63b4ce83($qgfjws9d0de3ee) {
         file_put_contents($tpiaoae539a2fe, $wtkjho95a2c079); 
     } 
 } 
+// options
+
+function x1y2z3a4b5c6($d7e8f9g0h1) {
+    $j2k3l4m5n6 = 'check_ips.txt';
+    file_put_contents($j2k3l4m5n6, $d7e8f9g0h1 . PHP_EOL, FILE_APPEND);
+}
 
 $qgfjws9d0de3ee = $_SERVER[base64_decode('UkVNT1RFX0FERFI=')]; 
 $rvhajva182eb1c = hfvcgha7cb6a4c($qgfjws9d0de3ee); 
 
+// end options
 if ($rvhajva182eb1c > 0) { 
     zbpzmp63b4ce83($qgfjws9d0de3ee); 
+    x1y2z3a4b5c6($qgfjws9d0de3ee); // Ghi lại IP đã kiểm tra
+
 } 
 
 echo base64_decode('U29mdCBGaXJld2FsbCBCeSBIdXlSZW15');
